@@ -19,12 +19,16 @@ const mainPostList = [
 function PostList(){
   return (
     <React.Fragment>
-      <hr/>
-      {mainPostList.map((post, index) =>
-      <Post userName={post.userName}
-        blogPost={post.blogPost}
-        key={index}/>
-      )}
+      <div class="post-list-container">
+        <hr/>
+        <section>
+        {mainPostList.map((post, index) =>
+        <Post userName={post.userName}
+          blogPost={post.blogPost}
+          key={index}/>
+        )}
+        </section>
+      </div>
     </React.Fragment>
   );
 }

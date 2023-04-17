@@ -6,6 +6,10 @@ function Header(){
     <React.Fragment>
       <h1>Social Media Clone</h1>
       <img src={socialIcon} alt = "Social media icon" width="5%"/>
+      <button type="button">Home</button>
+      <button type="button">Notifications</button>
+      <button type="button">Messages</button>
+      <hr />
     </React.Fragment>
   )
 }
