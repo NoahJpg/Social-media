@@ -13,18 +13,23 @@ code {
     monospace;
 }
 
-/*
-// for the UserName Box Yet to come.
 .user-name-container {
-  float: none;
+  /* float: none;
+  width: 90%;
+  border: 15px solid rgb(144, 201, 255);
+  padding: 40px;
+  margin: auto; */
+  float: left;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
   padding: 40px;
   margin: 20px;
-}
-*/
 
-.user-bio-container {
+
+}
+
+.user-bio-container{
+  clear: left;
   float: left;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
@@ -33,17 +38,27 @@ code {
 }
 
 .post-list-container {
-  display: inline-block;
+  /* vertical-align: top; */
+  
+  display: block;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
-  padding: 40px ;
+  padding: 40px;
   margin: 20px auto;
+
+  /* margin-right: 400px; */
 }
 
 .linked-profile-container {
+  /* vertical-align: top; */
+  position: absolute;
+  top: 27%;
+  right: 0px;
+  display: block;
   float: right;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
   padding: 40px;
   margin: 20px;
+  margin-top: 0%;
 }

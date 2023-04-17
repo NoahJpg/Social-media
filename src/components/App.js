@@ -1,15 +1,17 @@
 import React from 'react';
 import Header from "./Header";
-import PostList from "./PostList";
 import UserBio from "./UserBio";
+import UserName from "./UserName";
+import PostList from "./PostList";
 import LinkedProfiles from './LinkedProfiles';
 
 function App(){
   return (
     <React.Fragment>
-      <Header />
-      <PostList />
+      <Header /> 
+      <UserName />
       <UserBio />
+      <PostList />
       <LinkedProfiles />
     </React.Fragment>
   );
