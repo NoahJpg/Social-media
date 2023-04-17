@@ -1,11 +1,11 @@
 import React from "react";
-import socialMediaImage from "./../img/social-media-icon.png"
+import socialIcon from "./../img/social-media-icon.png"
 
 function Header(){
   return (
     <React.Fragment>
-      <h1>Social Media</h1>
-      <img src={headerImage} alt = "Social media icon" />
+      <h1>Social Media Clone</h1>
+      <img src={socialIcon} alt = "Social media icon" width="5%"/>
     </React.Fragment>
   )
 }
