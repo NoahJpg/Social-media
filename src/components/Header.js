@@ -9,6 +9,9 @@ function Header(){
       <button type="button">Home</button>
       <button type="button">Notifications</button>
       <button type="button">Messages</button>
+
+      <button type="button"> Search</button>
+      <button type="button"> Tweet</button>
       <hr />
     </React.Fragment>
   )
