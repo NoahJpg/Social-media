@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-04-17T22:59:17.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GoGR5KbALqbIqJn7ol8U" version="21.1.8" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="568" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-20" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-3" value="Nav Bar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-5" value="UserName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-6" value="Blog Post&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-8" value="Blog Post" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-9" value="Blog Post" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-11" value="UserBio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-12" value="linked profiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-13" value="Home" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-15" value="Notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-16" value="Messages" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-18" value="Profile1-Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="190" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-19" value="Profile3-Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="230" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-20" value="Profile2-Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="210" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-22" value="Search" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iod3M96PC-GqQpUXxMjK-24" value="PostButton" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="70" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
