@@ -17,22 +17,34 @@ code {
   float: left;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
-  padding: 50px;
+  padding: 40px;
   margin: 20px;
 }
 
-.post-list-container {
-  text-align: center;
-  width: 300px;
-  border: 15px solid rgb(144, 201, 255);
-  padding: 50px;
-  margin: 20px auto;
-}
 
 .linked-profile-container {
+  float: none;
+  width: 300px;
+  border: 15px solid rgb(144, 201, 255);
+  padding: 40px;
+  margin: 20px;
+}
+
+/*
+// for the UserName Box Yet to come.
+.user-name-container {
+  float: none;
+  width: 300px;
+  border: 15px solid rgb(144, 201, 255);
+  padding: 40px;
+  margin: 20px;
+}
+*/
+
+.post-list-container {
   float: right;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
-  padding: 50px;
-  margin: 20px;
+  padding: 40px ;
+  margin: 20px auto;
 }
