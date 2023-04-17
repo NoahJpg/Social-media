@@ -8,7 +8,9 @@ function LinkedProfiles(props){
         <hr/>
         <p>Linked Profile Test</p>
         <button type="button">Profile Button1</button>
+        <br />
         <button type="button">Profile Button2</button>
+        <br />
         <button type="button">Profile Button3</button>
       </div>
     </React.Fragment>
