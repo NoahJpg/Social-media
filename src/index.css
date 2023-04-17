@@ -13,23 +13,6 @@ code {
     monospace;
 }
 
-.user-bio-container {
-  float: left;
-  width: 300px;
-  border: 15px solid rgb(144, 201, 255);
-  padding: 40px;
-  margin: 20px;
-}
-
-
-.linked-profile-container {
-  float: none;
-  width: 300px;
-  border: 15px solid rgb(144, 201, 255);
-  padding: 40px;
-  margin: 20px;
-}
-
 /*
 // for the UserName Box Yet to come.
 .user-name-container {
@@ -41,10 +24,26 @@ code {
 }
 */
 
+.user-bio-container {
+  float: left;
+  width: 300px;
+  border: 15px solid rgb(144, 201, 255);
+  padding: 40px;
+  margin: 20px;
+}
+
 .post-list-container {
-  float: right;
+  display: inline-block;
   width: 300px;
   border: 15px solid rgb(144, 201, 255);
   padding: 40px ;
   margin: 20px auto;
+}
+
+.linked-profile-container {
+  float: right;
+  width: 300px;
+  border: 15px solid rgb(144, 201, 255);
+  padding: 40px;
+  margin: 20px;
 }
